@@ -1,4 +1,4 @@
-!(ザ・写経)[title.png]
+![ザ・写経](title.svg)
 
 # 「Python によるベイズ統計学入門」の写経
 
@@ -9,4 +9,4 @@ ISBN：9784254128987
 
 google colab で動作確認。
 
-(Python コード 2.1 pybayes_beta_prior.py)[2_1_pybayes_beta_prior.ipynb]
+[Python コード 2.1 pybayes_beta_prior.py](2_1_pybayes_beta_prior.ipynb)
