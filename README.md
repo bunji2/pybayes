@@ -4,7 +4,7 @@
 
 「Python によるベイズ統計学入門」の python コードを写経し、google colab で動作確認をおこなっていく。
 
-対象書籍の情報：
+## 対象書籍の情報
 
 |タイトル|Python によるベイズ統計学入門|
 |:-:|:-:|
@@ -12,7 +12,9 @@
 |出版|朝倉書店|
 |ISBN|9784254128987|
 
-写経コード一覧：
+![書影](book.jpg)
+
+## 写経コード一覧
 
 [Python コード 2.1 pybayes_beta_prior.py](2_1_pybayes_beta_prior.ipynb)
 
