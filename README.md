@@ -21,3 +21,5 @@
 [Python コード 2.2 pybayes_beta_distribution.py](2_2_pybayes_beta_distribution.ipynb)
 
 [Python コード 2.3 pybayes_conjugate_bernoulli.py](2_3_pybayes_conjugate_bernoulli.ipynb)
+
+[Python コード 4.1 pybayes_mcmc_reg_ex1.py](4_1_pybayes_mcmc_reg_ex1.ipynb)
